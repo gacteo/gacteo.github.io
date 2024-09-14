@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gacteo.github.io/nlR/sitemap.nlR.gz
